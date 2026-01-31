@@ -7,40 +7,39 @@ The goal of this dashboard is to help business stakeholders identify high-perfor
 ## Dataset used
 -<a href="https://github.com/sanchitraj123/ATLIQ-sales-insight-Data-Analysis-/blob/main/db_dump.sql">Dataset</a>
 
-Questions (KPIs)
-Compare the sales and orders using single chart.
+## Questions (KPIs)
+-Key Business Questions (KPIs)
+-What is the total revenue and total sales quantity?
+-Which markets generate the highest revenue?
+-Which markets have the highest sales quantity?
+-How does revenue trend over time?
+-Who are the top 5 customers by revenue?
+-Which are the top 5 products contributing to sales?
+-How does sales performance vary across different years and months?
 
-Which month got the highest sales and orders?
+- Dashboard Interaction <a href="https://github.com/sanchitraj123/ATLIQ-sales-insight-Data-Analysis-/blob/main/Screenshot%202026-01-31%20142944.png">View Dashboard</a>
 
-Who purchased more - Men or Women?
+## Process
+-Collected and verified sales data for missing values and inconsistencies
+-Cleaned and standardized data formats (dates, numeric values, market names)
+-Created calculated measures for revenue and sales quantity
+-Built market-wise, customer-wise, and product-wise aggregations
+-Designed interactive visuals using slicers and filters
+-Combined all insights into a single, user-friendly dashboard
 
-What are different order status in 2022?
-
-List top 10 states contributingto the sales?
-
-Relation between age and gender based on number of orders.
-
-Which Channel is contributing maximum to the sales?
-
-Highest selling category?
-
-Percentage of Total Orders delivered
-
-Dashboard Interaction View Dashboard
-
-Process
-Verify data for any missing values and anomalies, and sort out the same.
-Made sure data is consistent and clean with respect to data type, data format and values used.
-Created pivot tables according to the questions asked.
-Merge all pivot tables into one dashboard and apply slicer to make dynamic.
-Dashboard
-Screenshot (495)
-
-Project Insight
+## Project Insight
 Women customers are more likely to buy products compared to men (~65%).
 The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
 The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
 The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
 More than 90% of the products delivered
-Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+
+## Dashboard Image
+
+<img width="1314" height="742" alt="Screenshot 2026-01-31 142944" src="https://github.com/user-attachments/assets/0b30f4f9-d4ff-4065-a03b-3a58f0b611fe" />
+
+
+## Final Conclusion:
+
+The ATLIQ Sales Insights dashboard provides a clear overview of business performance across markets, customers, and products. By focusing on high-performing regions, key customers, and top-selling products, Atliq can optimize its sales strategy, improve revenue consistency, and identify growth opportunities in underperforming markets.
+This dashboard serves as a powerful tool for business decision-making, performance monitoring, and strategic planning.
